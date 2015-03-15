@@ -1,7 +1,0 @@
-{
-  "name": "Cal Example",
-  "description": "Quick Example of a Calendar",
-  "repository": "https://github.com/shtooney/Calendar/",
-  "logo": "https://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "example", "other"]
-}
