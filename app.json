@@ -1,0 +1,7 @@
+{
+  "name": "Calendar App Example",
+  "description": "Shows how easily one can set up a calendar",
+  "env": {
+    "APP_ID": ""
+  }
+}
