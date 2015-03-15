@@ -1,0 +1,7 @@
+{
+  "name": "Calendar Example",
+  "description": "An example of Calendar",
+  "repository": "https://github.com/shtooney/Calendar/master",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
