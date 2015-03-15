@@ -1,7 +1,7 @@
 {
-  "name": "Calendar App Example",
-  "description": "Shows how easily one can set up a calendar",
-  "env": {
-    "APP_ID": ""
-  }
+  "name": "Cal Example",
+  "description": "Quick Example of a Calendar",
+  "repository": "https://github.com/shtooney/Calendar/",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "example", "other"]
 }
